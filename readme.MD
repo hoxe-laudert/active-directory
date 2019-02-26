@@ -58,6 +58,10 @@ composer require magium/active-directory
 
 Done.
 
+## Notice: Version
+At the "magium/configuration-manager" version "1.0.1" Change the command below:
+"vendor/bin/magium magium:configuration" -> "vendor/bin/magium"
+
 ## Configuration
 
 This is a little more in-depth, but it shouldn't be overly complex.
